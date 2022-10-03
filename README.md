@@ -50,7 +50,7 @@
 
 > 2. My recommendations are that the company focuses on employees that are new to the workforce and are new to the company and are between the ages 25-36.  These are the individuals who have high attrition rates for whatever reason.
 
-> 3. Next steps at this company are to find out why younger employees new to the workforce and/or to the company are deciding to the leave the company.  Much of the other categories that were given didn't give great insight into a distinct shift in attrition rate and even more so a lot of the categories didn't have great descriptions to start off with.  I would probably send out questionnaires or do 1v1 interviews with a sample population of the aforementioned target groups.
+> 3. Next steps at this company are to find out why younger employees new to the workforce and/or to the company are deciding to the leave the company.  Much of the other categories that were given didn't give great insight into a distinct shift in attrition rate and even more so a lot of the categories didn't have great descriptions to start off with.  I would probably send out questionnaires or do 1v1 interviews with a sample population of the aforementioned target groups.  My model was not able to add enough value to baseline predictions thus we need to explore further into the data and attempt to find more meaningful information on why employees may quit.
 
 ## Project Plan
 
